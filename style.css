@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #86A480;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+h1{
+  border:6px groove #21402D;
+  border-radius: 5px;
+  padding:20px;
+  margin:10px;
+  text-align: center;
+  background-clip: padding-box;
+    background-color:#E5D3B3;
+}
+.column{
+  float: left;
+  width: 31%;
+  padding: 20px;
+  border: 10px groove #21402D;
+  border-radius: 8px;
+  margin:100px;
+  text-align: center;
+    background-clip: padding-box;
+    background-color:#E5D3B3;
+
+}
+.column2{
+  text-align: center;
+
+}
+img{
+  width:350px;
+}
+.cauli{
+  width:350px;
+}
+.bok{
+  width:369px;
+}
